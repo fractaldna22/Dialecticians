@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Dialectician Debate Panel",
+  "description": "Participate in a debate with a Panel of preset AI Agent Dialecticians or create your own participants.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
